@@ -35,10 +35,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/uzieee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uzieee&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-</div>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=uzieee&theme=dark&hide_border=true" alt="GitHub Streak" /></a></div>
 
 
 ## Socials
@@ -61,7 +58,7 @@
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" width="100" height="32" />
   </a>
   
-  <a href="https://www.stackoverflow.com/users/21057419/syed-haider-ali-zaidi" target="_blank" rel="noreferrer">
+  <a href="https://www.stackoverflow.com/users/27017658/usman-shafique" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" width="100" height="32" />
   </a>
 </p>

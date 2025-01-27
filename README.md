@@ -35,8 +35,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=uzieee&theme=dark&hide_border=true" alt="GitHub Streak" /></a></div>
-
+<a href="http://www.github.com/uzieee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uzieee&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 
 ## Socials
 <div align="center">

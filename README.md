@@ -1,4 +1,4 @@
-# <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/usmanshafique4342/">Usman Shafique</a> aka Uziee, a Software Engineer 👨‍💻</div>  
+# <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/usmanshafique4342/">Uziee</a> , a Software Engineer 👨‍💻</div>  
 <br>
 🔭 I’m currently working as a Software Engineer at Qlu.ai developing high performance AI based SaaS based applications with PERN, TypeScript and Elastic Search.<br>👯 I’m looking to collaborate on any Full Stack Web Applications specially in AI and DL.<br>🤝 I’m looking for help with my projects in AI and Engineering solutions.<br>🌱 I’m currently learning all about evolving Technologies to keep myself up to date such as Web3 and GenAi<br>💬 Ask me anything related to TypeScript , NextJs<br>
 <br><br>
